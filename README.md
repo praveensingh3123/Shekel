@@ -1,1 +1,1 @@
-# Cash Settlement App
+# Shekel - Cash Settlement App
