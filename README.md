@@ -1,6 +1,6 @@
 # Shekel - Cash Settlement App
 
-Try it for yourself: https://praveensingh3123.github.io/Shekel/
+<h2> Try it for yourself: https://praveensingh3123.github.io/Shekel/ </h2>
 
 # Welcome to Shekel!  
 
