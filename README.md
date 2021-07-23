@@ -19,3 +19,4 @@ There's no sense in Rs. 10 making its way from Praveen to Dhriti and then from D
 
 The goal, then, in the general case is to take a debt graph and simplify it (i.e. produce a new graph with the same nodes but different edges).
 
+<img src="https://github.com/praveensingh3123/Shekel/blob/main/Screenshot%20(541).png" >
