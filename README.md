@@ -2,12 +2,12 @@
 
 <h2> Try it for yourself: https://praveensingh3123.github.io/Shekel/ </h2>
 
-# Welcome to Shekel!  
+<h3> Welcome to Shekel! </h3>
 
 The idea is to use Shortest path algorithm where at every step, settle all amounts of one person and recur for remaining n-1 persons.  
 
   
-# Getting Started  
+<h3> Getting Started </h3>
   
 For example, if the following weighted directed graph represents some people and the arrows represent debts between them (Praveen owes Dhriti Rs. 20 and Samir Rs. 5, Dhriti owes Samir Rs. 10, etc.):
 
